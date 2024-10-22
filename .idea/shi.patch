@@ -1,0 +1,23 @@
+Subject: [PATCH] shi
+---
+Index: .idea/whatsappautomation.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/whatsappautomation.iml b/.idea/whatsappautomation.iml
+new file mode 100644
+--- /dev/null	(revision c593f816b1f65bae9cfd81ba19f49d9293b3027b)
++++ b/.idea/whatsappautomation.iml	(revision c593f816b1f65bae9cfd81ba19f49d9293b3027b)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$">
++      <excludeFolder url="file://$MODULE_DIR$/.venv" />
++    </content>
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
